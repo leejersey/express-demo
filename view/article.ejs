@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<ul>
+		<% for(var i=0;i<list.length;i++) { %>
+		<li>
+			<h2><a href="/main/<%= list[i].id %>"><%= list[i].title %></a></h2>
+			<p><%= list[i].content %></p>
+			<a href="##">删除</a>
+		</li>
+		<% } %>
+	</ul>
+</body>
+</html>

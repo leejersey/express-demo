@@ -1,0 +1,11 @@
+{
+	"code":1,
+	"msg":"ok",
+	"data":[
+		{"id":"001","name":"组长","status":1,"create":"admin","ctime":"12312312312"},
+		{"id":"002","name":"小组长","status":0,"create":"admin","ctime":"12312312312"},
+		{"id":"003","name":"总监","status":1,"create":"admin","ctime":"12312312312"},
+		{"id":"004","name":"VP","status":1,"create":"admin","ctime":"12312312312"},
+		{"id":"005","name":"CEO","status":1,"create":"admin","ctime":"12312312312"}
+	]
+}
